@@ -1,1 +1,1 @@
-# projet-collection
+# PROJET COLLECTION
