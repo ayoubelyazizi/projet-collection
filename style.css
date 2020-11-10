@@ -1,11 +1,16 @@
 /* font-family: 'Comfortaa', cursive; */
 
 body{
-    background-color: #F2F2F2;
+    background: url(https://img.wallpapersafari.com/desktop/1920/1080/27/99/70NZwX.jpg) no-repeat fixed;
+    background: cover;
+}
+
+p{
+    color: white;
 }
 
 #titre{
-    color: black;
+    color: white;
     font-family: 'Comfortaa', cursive;
     font-weight: bold;
 }
