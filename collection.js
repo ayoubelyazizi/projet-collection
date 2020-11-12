@@ -137,11 +137,11 @@ for (let element of collection){
     title.textContent = element.title;
 
     const link = document.createElement('a')
-    link.src = element.link;
+    link.target= '_blank'
+    link.href = element.link;
 
     const icon_yt = document.createElement('i')
     icon_yt.className = 'fab fa-youtube fa-1x'
-    icon_yt.src = element.link;
     
     const subtitle = document.createElement('p')
     subtitle.className = 'subtitle is-6'
