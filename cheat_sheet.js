@@ -41,6 +41,7 @@ columns.className = 'columns';
                     const subtitle = document.createElement('p')
                     subtitle.className = 'subtitle is-6'
                     subtitle.textContent = element.author;
+            
             const content = document.createElement('div')
             content.className = 'content'
             content.textContent = element.description;
